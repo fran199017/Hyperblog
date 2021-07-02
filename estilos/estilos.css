@@ -3,6 +3,9 @@ body{
     font-family: "Arial";
     color: red;
 }
+footer{
+    background-color: indianred;
+}
 
 #container{
     width: 70%;
